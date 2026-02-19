@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flag {
+    width: 300px;     
+    height: 200px;  
+    border: 2px solid black;
+}
+
+.white {
+    height: 50%;
+    background-color: white;
+}
+
+.red {
+    height: 60%;
+    background-color: #dc143c;
+}
+
